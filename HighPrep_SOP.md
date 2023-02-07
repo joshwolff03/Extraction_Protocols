@@ -1,23 +1,23 @@
-# The Ganda Laboratory
+## The Ganda Laboratory
 # HighPrep Magnetic DNA Extraction
 
-BEFORE YOU BEGIN
-  1.	Gather Materials 
-    a.	DNA elution plate (1 per 96 rxns)
-    b.	Micropipettes (1000, 100, 10 uL)
-    c.	Pipette tips (1000, 100, 10 uL)
-    d.	HSW wash buffer
-    e.	100% ethanol (430 uL/sample)
-    f.	70% ethanol (800 uL/sample)
-    g.	AS buffer
-    h.	Pro K solution
-    i.	Bead tubes
-    j.	MAG-S1 particles (10 uL/sample)
-    k.	Magnetic plate
-    l.	Deep well plate (1 per 96 rxns)
-    m.	MB elution buffer (100 uL/sample)
+### BEFORE YOU BEGIN
+  1. Gather Materials 
+      * DNA elution plate (1 per 96 rxns)
+      * Micropipettes (1000, 100, 10 uL)
+      * Pipette tips (1000, 100, 10 uL)
+      * HSW wash buffer
+      * 100% ethanol (430 uL/sample)
+      * 70% ethanol (800 uL/sample)
+      * AS buffer
+      * Pro K solution
+      * Bead tubes
+      * MAG-S1 particles (10 uL/sample)
+      * Magnetic plate
+      * Deep well plate (1 per 96 rxns)
+      * MB elution buffer (100 uL/sample)
     
-DNA EXTRACTION
+### DNA EXTRACTION
   1. Add 1000 uL of sample to bead tube
   2.	Add 300 uL AS buffer to sample and vortex to mix
   3.	Load bead tubes into bead ruptor and run for 10 minutes at 20 Hz
