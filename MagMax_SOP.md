@@ -55,5 +55,30 @@ Skin/Buccal Swab | Remove plastic stick and place in tube.
 | --- | --- |
 | 100% molecular-grade ethanol | 160 mL |
 | Invitrogen Ultra-Pure Water	| 40 mL |
-
+### Digest with Proteinase K
+* Transfer 400-500uL of sample to a new 2.0mL microcentrifuge tube.
+* Add 40uL of Proteinase K to each sample. 
+* Vortex the samples for 5 minutes. 
+* Incubate the samples in incubator or water bath at 65C for 20 minutes. 
+### Bind Beads
+* Transfer up to 400uL of the sample to a new clean 2.0mL microcentrifuge tube. 
+*	Add 520uL of binding bead mix to each sample.
+      * Make sure to use a new pipette tip for every sample, this solution is very viscous. 
+* Vortex the tubes for 5 minutes. 
+* Place tubes on magnet rack for at least 5 minutes, or until all the beads have collected. 
+### Wash Beads
+* Keeping tubes on the magnet, remove and discard the supernatant. 
+*	Remove plate from magnet, add 1mL of Wash Buffer to each sample. Pipette to mix. 
+*	Place plate back on magnet stand for 3 minutes, or until all the beads have collected. 
+*	Keeping the tubes on the magnet, remove and discard the supernatant. 
+*	Repeat steps 2-4 with 1mL of Wash Buffer.
+*	Repeat steps 2-4 with 1mL of 80% Ethanol.
+*	Repeat steps 2-4 with 1mL of 80% Ethanol. 
+* Dry the beads by leaving the tubes open and on the magnet for 2 minutes. 
+### Elute DNA
+* Remove the tubes from the magnet rack, and add 50uL of Elution Buffer to each sample. 
+* Place the tubes in an incubator or water bath at 75C for 5 minutes. 
+* Place tubes on vortexer for 5 minutes. 
+* Place the tubes on the magnet rack for 3 minutes or until all beads have collected. 
+* Transfer supernatant to a new tube, properly labeled for each sample. This is your eluted DNA and can be stored at -80C for long term storage. 
 
