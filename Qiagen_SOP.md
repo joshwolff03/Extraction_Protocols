@@ -109,3 +109,10 @@ At a minimum, these procedures should be performed using BSL-2 facilities and BS
 * Measure the DNA concentration using a Nanodrop/Qubit. 
 * Please mark the tubes of DNA with the following information: DNA from milk, Date, your initials, concentration in ng/ul. 
 * Store at -20ºC on a clearly marked sample box. 
+### Determination of concentration, yield, and purity 
+* DNA yields are determined from the concentration of DNA in the eluate, measured by absorbance at 260 nm. 
+* Purity is determined by calculating the absorbance ratio at 260 nm to absorbance at 280 nm. 
+* Pure DNA has an A260/A280 ratio of 1.7–1.9. 
+## References
+* OIE Terrestrial Manual 2018. Brucellosis (Brucella abortus, B. melitensis, B. suis).  Chapter 3.1.4 (May 2016). http://www.oie.int/fileadmin/Home/fr/Health_standards/tahm/3.01.04_BRUCELLOSIS.pdf 
+* QIAamp ® DNA Mini and Blood Mini Handbook For DNA purification from whole blood, plasma, serum, buffy coat, lymphocytes, dried blood spots (QIAamp DNA Mini Kit only), body fluids, cultured cells, swabs, and tissue (QIAamp DNA Mini Kit only). 
