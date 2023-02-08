@@ -15,4 +15,23 @@
 * 100% molecular-grade ethanol
 * 96-well elution plate
 * Magnetic plate
-### 
+### Lyse Samples
+1.  Add 500 µL sample and 800 µL Lysis Buffer L to bead tube
+2.  Add 100 µL Lysis Additive A to bead tube and vortex briefly
+3.  Load samples into bead ruptor for 3 minutes at 20 Hz
+4.  Centrifuge lysate at 20,800 x g (14,000 RPM) for 2 minutes
+5.  Transfer 600 µL of supernatant to a DNase-free microcentrifuge tube
+6.  Add 100 µL Binding Buffer I, mix by inversion, and incubate on ice for 10 minutes
+7.  Centrifuge samples at 20,800 x g (14,000 RPM) for 2 minutes to pellet any cell debris
+8.  Transfer 600 µL of supernatant into a new DNase-free microcentrifuge tube
+9.  Add 300 µL of 100% molecular-grade ethanol and 20 µL magnetic bead suspension to the collected lysate
+10.  Shake and incubate at room temperature for 5 minutes
+### DNA Isolation
+1. Place lysate onto magnetic plate and incubate at room temperature for 1 minute
+2. Aspirate and discard supernatant without touching the beads
+3. Remove tubes from the magnetic plate and add 500 µL Solution WN and vortex to mix
+4. Place tubes on the magnetic plate and incubate at room temperature for 1 minute
+5. Aspirate and discard supernatant without touching the beads
+6. Remove tubes from the magnetic plate and add 500 µL of 70% molecular-grade ethanol to samples, vortex to mix
+7. Place tubes back onto magnetic plate and incubate at room temperature for 1 minute
+8. 
