@@ -27,11 +27,17 @@
 9.  Add 300 µL of 100% molecular-grade ethanol and 20 µL magnetic bead suspension to the collected lysate
 10.  Shake and incubate at room temperature for 5 minutes
 ### DNA Isolation
-1. Place lysate onto magnetic plate and incubate at room temperature for 1 minute
+1. Place lysate onto magnetic plate and incubate at room temperature until beads precipitate from solution
 2. Aspirate and discard supernatant without touching the beads
 3. Remove tubes from the magnetic plate and add 500 µL Solution WN and vortex to mix
-4. Place tubes on the magnetic plate and incubate at room temperature for 1 minute
+4. Place tubes on the magnetic plate and incubate at room temperature until beads precipitate from solution
 5. Aspirate and discard supernatant without touching the beads
 6. Remove tubes from the magnetic plate and add 500 µL of 70% molecular-grade ethanol to samples, vortex to mix
-7. Place tubes back onto magnetic plate and incubate at room temperature for 1 minute
-8. 
+7. Place tubes back onto magnetic plate and incubate at room temperature until beads precipitate from solution
+8. Aspirate and discard supernatant
+9. Repeat steps 6-8 for a second 70% ethanol wash
+10. Incubate for 5 minutes at 65° C with tubes open to dry the beads
+11. Add 100 µL Elution Buffer B
+12. Incubate for 10 minutes at 65° C
+13. Place tubes on magnetic plate and transfer the supernatant to a new DNase-free microcentrifuge tube
+14. Collected DNA can be stored at 4° C for a few days or -20° C for long-term storage
