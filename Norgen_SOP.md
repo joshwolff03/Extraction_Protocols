@@ -36,7 +36,7 @@
 7. Place tubes back onto magnetic plate and incubate at room temperature until beads precipitate from solution
 8. Aspirate and discard supernatant
 9. Repeat steps 6-8 for a second 70% ethanol wash
-10. Incubate for 5 minutes at 65° C with tubes open to dry the beads
+10. Incubate for 5 minutes at room temperature with tubes open to dry the beads
 11. Add 100 µL Elution Buffer B
 12. Incubate for 10 minutes at 65° C
 13. Place tubes on magnetic plate and transfer the supernatant to a new DNase-free microcentrifuge tube
