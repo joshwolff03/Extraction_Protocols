@@ -28,13 +28,17 @@
   8.	Incubate at room temperature for 5 minutes
   9.	Place deep well plate on magnetic separation plate until the beads fully separate from the solution
   10.	Remove and discard supernatant without disturbing the separated beads (while the plate is still on the magnetic separation device)
-  11.	Remove plate from magnetic separation device and add 400 uL 70% ethanol to sample.  Pipette to mix
+  11.	Remove plate from magnetic separation device and add 400 uL HSW Buffer to samples and pipette to mix
   12.	Incubate at room temperature for 1 minute
-  13.	Place sample plate on magnetic separation device until the beads fully separate from solution
+  13.	Place sample on magnetic separation device until the beads fully separate from solution
   14.	Remove and discard supernatant while plate is still on the magnetic separation device
-  15.	Repeat steps 10-13 for a second ethanol wash
-  16.	Dry the beads by incubating at room temperature for 3 minutes with the plate still on the magnetic separation device
-  17.	Add 100 uL MB elution buffer to sample and vortex to completely resuspend MAG-S1 particles
-  18.	Incubate at room temperature for 10 minutes
-  19.	Place sample plate back on the magnetic separation device until the beads fully separate from solution
-  20.	Remove supernatant and place in DNA elution plate – this is now the final extracted DNA.  Store at -20° C.
+  15. Remove plate from magnetic separation device and add 400 uL 70% ethanol to sample.  Pipette to mix
+  16.	Incubate at room temperature for 1 minute
+  17.	Place sample plate on magnetic separation device until the beads fully separate from solution
+  18.	Remove and discard supernatant while plate is still on the magnetic separation device
+  19.	Repeat steps 10-13 for a second ethanol wash
+  20.	Dry the beads by incubating at room temperature for 3 minutes with the plate still on the magnetic separation device
+  21.	Add 100 uL MB elution buffer to sample and vortex to completely resuspend MAG-S1 particles
+  22.	Incubate at room temperature for 10 minutes
+  23.	Place sample plate back on the magnetic separation device until the beads fully separate from solution
+  24.	Remove supernatant and place in DNA elution plate – this is now the final extracted DNA.  Store at -20° C.
